@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>(?i)\b([A-Z][A-Z0-9._%+-]+)@([A-Z0-9.\-]+)\.([A-Z]{2,4})\b</string>
+			<string>(?i)\b([A-Z0-9._%+-]+)@([A-Z0-9.-]+)\.([A-Z]{2,})\b</string>
 			<key>name</key>
 			<string>markup.underline.link.email.hyperlink</string>
 		</dict>
